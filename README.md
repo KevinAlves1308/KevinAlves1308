@@ -1,14 +1,17 @@
 # Kevin Oliveira
 
 ## Resumo sobre mim
-Embarcando em minha jornada na área de TI com foco em desenvolvimento, tanto no backend quanto no frontend. Com uma paixão pela criação de soluções robustas e intuitivas, estou comprometido em aprender e dominar as tecnologias mais recentes. Determinado a contribuir com minha criatividade e habilidades analíticas para impulsionar projetos inovadores e alcançar excelência técnica. Buscando oportunidades de crescimento e colaboração em um ambiente dinâmico que promova aprendizado contínuo e desenvolvimento profissional.
+Formado em Análise e Desenvolvimento de Sistemas, busco oportunidade como Desenvolvedor Júnior com foco em Front-End, mas visando ser desenvolvedor FullStack. Atualmente, me dedico diariamente aos estudos e participo de mentoria com especialista, com foco em performance, boas práticas e qualidade de entrega.
 
-Ansioso para aplicar minha habilidade em análise e minha mentalidade criativa para impulsionar soluções inovadoras e contribuir para o crescimento e sucesso da equipe. Aberto a oportunidades de estágio ou posição júnior que me permitam crescer e evoluir profissionalmente.
+Tenho perfil proativo, sou organizado, responsável e orientado a resultados. Gosto de resolver problemas, colaborar com times, analisar demandas e transformar ideias em soluções. Sou determinado, tenho sede de aprendizado e busco crescimento constante para gerar impacto real nos projetos e na empresa.
 
-## Tecnologias Utilizadas
-- Frontend: HTML, CSS, JavaScript
-- Backend: JAVA, PHP E PHYTON
-- Banco de Dados: Mysql
+## Conhecimentos Básicos:
+HTML, CSS, SCSS, JS, Angular, React, API, MySQL, SQL, Java, Python.
+
+## Palavras-Chave
+HardSkill | SoftSkill | Scrum | Agile | FrontEnd | Bando de Dados | API | TypeScript | 
+
+
 
 ## Contato
 Você pode me encontrar nas seguintes redes sociais:
